@@ -694,7 +694,7 @@ audio#audioPlayer {
       justify-content: center;
       display: flex;
       margin: 14px 10 14px 10;
-      height: 100%;
+      height: 109%;
   }
 
     label.storytellin {
@@ -800,15 +800,16 @@ audio#audioPlayer {
       align-items: center;
     }
 
-    .menuGrabar {
-    margin: -83 0 0 0;
-    width: 345px;
-    height: 270px;
-    flex-shrink: 0;
-    border-radius: 20px;
-    background: var(--Fondo-pginas, #F2F2F2);
-    box-shadow: 0px 4px 4px 0px rgba(204, 0, 255, 0.25);
+      .menuGrabar {
+        margin: -20px 0 0 0;
+        width: 334px;
+        height: 240px;
+        flex-shrink: 0;
+        border-radius: 20px;
+        background: var(--Fondo-pginas, #F2F2F2);
+        box-shadow: 0px 4px 4px 0px rgba(204, 0, 255, 0.25);
     }
+
 
   h5 {
     color: var(--Logo-2, #09244B);
@@ -939,9 +940,9 @@ a#icono {
 }
 
 .resultadoImagenes {
-    width: 350px;
-    height: 89%;
-    border-radius: 4px;
+  width: 335px;
+  height: 89%;
+  border-radius: 4px;
 }
 
 #popup {
