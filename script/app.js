@@ -138,7 +138,7 @@ button.addEventListener('click',()=>{
            
             /*var apiKey = "81sKF79HmiSaQMvYhy49a9jW1x5KXeaF1gRlesXoxz8Y5Nh4rAi6BMVhPMWF";*/
             /*var apiKey = "cdI9D7Fv8ZV9KtjW5qh8k3aAcZTPMjOdWQv5dEzvzVi3n4w1UckF6NN1VH8c";*/
-            
+          
             var apiUrl = "https://stablediffusionapi.com/api/v3/text2img";
             var params = {
                 key: apiKey,
